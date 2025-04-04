@@ -1,2 +1,1 @@
-# OT-Project
-hdhbcdufwk
+As part of our project on **exchange rates and the forex market**, we have been tracking the exchange prices of three countries daily. This data collection will allow us to conduct a detailed analysis at the end of the project. Throughout this process, we have been working as a group, uploading our files to GitHub, and journaling our progress to document the concepts explored and tasks completed. This systematic approach helps ensure accurate tracking, efficient collaboration, and a well-organized workflow. Below is a compilation of the steps we followed while setting up Git and managing our repositories. 

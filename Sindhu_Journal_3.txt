@@ -1,3 +1,6 @@
-Journal 3 
+Journal 3
 
-Learnings
+My Learnings
+
+Through this project, I gained a deep conceptual understanding of how the forex market operates and how exchange rates are determined by a nation's economic forces and global events. I also learnt how central banks, like the RBI, are involved in this mechanism and how they play a major role in maintaining economic stability. One of the key insights for me was how technology drives this entire system. I came to know how platforms like Google Finance use APIs and data providers to offer real-time exchange rate updates.
+
